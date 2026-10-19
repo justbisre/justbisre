@@ -23,7 +23,7 @@ Here are the technologies I'm working with daily:
 ---
 
 ### 🤝 Connect with Me
-* 💼 **LinkedIn:** [Your Name/Link Here]
-* 📧 **Email:** [Your Email Here]
+* 💼 **LinkedIn:** []
+* 📧 **Email:** [justbisre@gmail.com]
 
 _"Solving problems one commit at a time."_
